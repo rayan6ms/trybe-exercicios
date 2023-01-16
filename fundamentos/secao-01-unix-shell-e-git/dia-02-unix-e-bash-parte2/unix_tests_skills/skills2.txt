@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Python
+HTML
+CSS
+Javascript
+C
